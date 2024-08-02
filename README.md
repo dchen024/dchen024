@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Welcome! My name is Daniel Chen<br>📚 Sophomore at The City College of New York (CUNY City College)<br>🦫 President of ACM chapter<br>⚡️ Won 6 hackathons and been to 15<br>💪 If I'm not coding, I'm at the gym<br>
+👋 Welcome! My name is Daniel Chen<br>📚 Junior at The City College of New York (CUNY City College)<br>🦫 President of ACM chapter<br>⚡️ Won 6 hackathons and been to 15<br>💪 If I'm not coding, I'm at the gym<br>
 
 [Resume](https://drive.google.com/file/d/1EhmsLwjvGzoPDMa-U7V2PjIusA2NqzR1/view?usp=sharing)
 
