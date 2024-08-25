@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Welcome! My name is Daniel Chen<br>📚 Junior at The City College of New York (CUNY City College)<br>🦫 President of ACM chapter<br>⚡️ Won 6 hackathons and been to 15<br>💪 If I'm not coding, I'm at the gym<br>
+👋 Welcome! My name is Daniel Chen<br>📚 Junior at The City College of New York (CUNY City College)<br>🦫 Previous President of ACM chapter<br>⚡️ Won 6 hackathons and been to 16<br>💪 If I'm not coding, I'm at the gym<br>
 
 [Resume](https://drive.google.com/file/d/1EhmsLwjvGzoPDMa-U7V2PjIusA2NqzR1/view?usp=sharing)
 
@@ -50,8 +50,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dchen024&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dchen024&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
